@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "postcalculator.h": "c",
+        "stdio.h": "c"
+    }
+}
